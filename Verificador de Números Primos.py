@@ -8,7 +8,6 @@ def teste_primo(n):
             auxiliar += 1
     return auxiliar == 2
 
-
 def verificar_primo():
     numero = int(entrada_numero.get())
     resultado = teste_primo(numero)
